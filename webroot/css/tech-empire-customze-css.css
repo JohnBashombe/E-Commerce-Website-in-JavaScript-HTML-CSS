@@ -1,0 +1,58 @@
+.main-padding{
+	padding: 15px 15px;
+}
+
+.take-left{
+	float: left;
+}
+
+.take-right{
+	float: right;
+}
+
+.custom-image-modal{
+	width: 50%;
+	height: auto;
+}
+
+@media (min-width: 1px) and (max-width: 499.98px){
+	.custom-image-modal{
+		width: 60%;
+	}
+}
+
+@media (min-width: 500px) and (max-width: 767.99px){
+	.custom-image-modal{
+		width: 50%;
+	}
+}
+
+.text-pad-next-prev{
+	padding-left: 15px;
+}
+
+.direction-arrow{
+	cursor: pointer;
+}
+
+.top-pad-modal{
+	padding-top: 25px;
+}
+
+.myclose_modal{
+	margin-top: -12px;
+	font-size: 35px;
+	color: #6f42c1;
+}
+
+.myclose_modal:hover{
+	cursor: pointer;
+	color: #cc770e;
+}
+
+.pad-footer{
+	padding-bottom: 40px;
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}

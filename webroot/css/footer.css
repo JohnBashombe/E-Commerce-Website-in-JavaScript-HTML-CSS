@@ -1,0 +1,49 @@
+/* 
+    Created on : Oct 9, 2018, 10:32:05 PM
+    Author     : John Ntavigwa
+*/
+
+
+.last-foot{
+	padding-top: 10px;
+}
+
+.row a {
+    font-size: 13px;
+    color: #000000;
+}
+
+.row h6{
+    font-size: 15px;
+
+}
+
+.empire-footer-text{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+
+@media screen and (min-width: 200px){
+
+    .row a {
+        font-size: 12px;
+    }
+
+    .row h6{
+        font-size: 13px;           
+    }
+
+}
+
+@media screen and (min-width: 786px){
+
+    .row a {
+        font-size: 13px;
+    }
+
+    .row h6{
+        font-size: 15px;           
+    }
+
+}
